@@ -7,14 +7,14 @@
 
     <ContentPage.Content>
         <Grid>
-            <!--<forms:CachedImage Aspect="AspectFill"
+            <forms:CachedImage Aspect="AspectFill"
                            Source="tenor.gif"
                            HorizontalOptions="Center"
-                           VerticalOptions="Center"></forms:CachedImage>-->
-            <forms:CachedImage Aspect="AspectFill"
+                           VerticalOptions="Center"></forms:CachedImage>
+            <!--<forms:CachedImage Aspect="AspectFill"
                            Source="icon.png"
                            HorizontalOptions="Center"
-                           VerticalOptions="Center"></forms:CachedImage>
+                           VerticalOptions="Center"></forms:CachedImage>-->
         </Grid>
     </ContentPage.Content>
 </ContentPage>
